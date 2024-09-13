@@ -167,7 +167,6 @@ public class ForensicAnalysis {
     public void flagProfilesOfInterest() {
         traverse(treeRoot);
 
-        // WRITE YOUR CODE HERE
     }
 
     private void traverse(TreeNode node) {
